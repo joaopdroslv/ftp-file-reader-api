@@ -1,5 +1,5 @@
-from io import BytesIO
 from ftplib import FTP
+from io import BytesIO
 from typing import List
 
 
